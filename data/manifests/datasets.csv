@@ -1,4 +1,4 @@
-dataset,path,description,upstream
+﻿dataset,path,description,upstream
 DB1-DB8,data/benchmark,Financial series used by OPF-Miner (same files as the baseline study),https://github.com/wuc567/Pattern-Mining/tree/master/OPF-Miner
 ELEC_01/05/10,data/electricity_scale,UCI ElectricityLoadDiagrams20112014 concatenated over 1/5/10 clients,https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
 Smoke fixture,data/smoke/DB1.txt,Copy of DB1 for a quick compile/run check,Same provenance as DB1-DB8
