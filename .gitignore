@@ -1,0 +1,9 @@
+build/
+*.class
+.idea/
+*.iml
+.DS_Store
+*.log
+results/runs/
+results/validation/
+results/canonical_*/
