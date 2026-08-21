@@ -1,0 +1,3 @@
+dataset,source,notes
+DB1-DB8,OPF-Miner distribution,https://github.com/wuc567/Pattern-Mining/tree/master/OPF-Miner
+ELEC_01/05/10,UCI ElectricityLoadDiagrams20112014,concatenated client series for the paper
